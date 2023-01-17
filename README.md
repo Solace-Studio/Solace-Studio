@@ -1,4 +1,12 @@
 ### Hi there 👋
+We are Solace Studio, a game studio and a game development club at Bennett University, Greater Noida, India.
+We are not only a studio which develops games, but also a club that aims to build a supportive adn collaborative community for all the aspiring game developers of our University.
+We also conduct industrial visits, events, workshops as well as Game Jams.
+
+<!-- Visit our [website](https://domain.name "Solace Studio") -->
+- ⚡ Check out our games on [itch.io](https://solace-studio.itch.io/ "Itch Profile")
+- :star_struck: Check out our [Linktree](https://linktr.ee/solacestudio)
+- :wink: Check out our work on [ArtStation](https://www.artstation.com/solacestudio "ArtStation Profile")
 
 <!--
 **Solace-Studio/Solace-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
